@@ -40,7 +40,7 @@ namespace FinalShapeGame
                     }
                     else if(width > 0)
                     {
-                        width++;
+                        width--;
                     }
                 }
             }
